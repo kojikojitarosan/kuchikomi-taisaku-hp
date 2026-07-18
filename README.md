@@ -1,1 +1,0 @@
-# kuchikomi-taisaku-hp
