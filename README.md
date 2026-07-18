@@ -1,3 +1,5 @@
+https://kojikojitarosan.github.io/kuchikomi-taisaku-hp/
+
 # hp-renewal
 
 `https://kuchikomi-taisaku.com/`（Studio製・一般社団法人 口コミ対策センター）のリニューアル用静的サイト。
